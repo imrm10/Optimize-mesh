@@ -1,0 +1,7 @@
+optimized_mesh_old.py
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
