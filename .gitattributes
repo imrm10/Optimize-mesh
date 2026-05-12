@@ -1,0 +1,2 @@
+material/*.obj filter=lfs diff=lfs merge=lfs -text
+material/*.json filter=lfs diff=lfs merge=lfs -text
